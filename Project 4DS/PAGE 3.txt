@@ -1,0 +1,32 @@
+<title>PAGE 3</title>
+</head>
+<body style="background-color:#90ee90;">
+<center><img src="Project 4DS logo.png" width"200px" height="200px" alt="PROJECT 4DS:DISCUSSING DIRECTION, DECISION AND DESIRES TO SUCCEED"> </img></center>
+<p style="font-style:Bold; font-size:40px;font-family:Bookman Old Style;text-align:center;">PROJECT 4DS:DISCUSSING DIRECTION, DECISION AND DESIRES TO SUCCEED</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Kayleigh Anne Gisto 09050760408 kyleighannegisto@gmail.com 11 EINSTEIN</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Stephanie Lorraine Reyes 09099850263 stephanie30lreyes@gmail.com 11 EINSTEIN</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Sheena Mae V. Cruzat 09469647670 sheenamaevalentoncruzat03@gmail.com 11 EINSTEIN</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Alinah Jen A. Mendoza 09685932721 Alinahmendoza799@gmail.com 11 EINSTEIN</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Cathlyn Joy Delloro 09483747054 cathlyndelloro@gmail.com 11 EINSTEIN</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Ryan Khim Michael C. Cagoco 0956607667 ryanmichaelcomia@gmail.com 11 EINSTEIN</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Ronjae Calvin Gregorio 09665200762 notcrescent6876@gmail.com 11 EINSTEIN</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Aljon Albante 09503237787 aljonalbante@gmail.com 12 SOCRATES</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Jomel Aguilar 09609185865 jomelaguilar@gmail.com 11 EINSTEIN</p>
+<p style="font-style:italic;font-size:15px;font-family:bookman old style;text-align:center;"> Kirby F. Rosales 09464367256 kirbyrosales52@gmail.com 11 EINSTEIN</p>
+<br>
+<br>
+<br>
+<p style="font-style:Bold;font-size:30px;font-family:consolas;text-align:left;color:Black;">RATIONALE</p>
+<p style="font-size:20px;font-family:Time New Roman;font-style:justify;"> We make numerous decisions every day, often without much thought aboutthe process of making them. We don’t realize how important ever decisions we make is or how they affect us. Making choices is a crucial process of succeeding in any endeavour. Whether it’s in the expert or private realm, success is usually described by the best of the selections made. Making the proper selections can make bigger your possibilities of success, while making bad choices ought to be a roadblock to achievement. This is why it is essential to have an understanding of decision making and what it involves. Decision making is a complicated procedure that entails examining a scenario or issue, analysing vary of possible solutions, assessing the penalties of each decision, and deciding on the pleasant option. Effective choice makers are in a position to analyse and motive logically by using evaluating the accessible information and thinking about the conceivable outcomes of each option. They additionally recognize the dangers related with every viable choice, weigh the costs and benefits, and assess the plausible outcomes of each selection in terms of their long-term goals.</p>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<p style="font-size:20px;font-family:Time New Roman;font-style:justify;">Decision making in lifestyles can be a difficult challenge as there can be many elements to consider and many workable outcomes. A hassle that humans frequently face when making selections is weighing their long-term pursuits in opposition to their short-term interests. This often comes up when confronted with tough selections such as whether to spend cash now or save for the future. Another trouble that many people grapple with is the fear of making the wrong selection and of conceivable failure. It is vital to keep in mind that decisions can often be changed or modified if needed and that it is necessary to make decisions with confidence and have confidence in oneself. Finally, it is essential to take the time to assume via and weigh the professionals and cons of every decision and finally make a decision that is in alignment with one's values and favoured outcomes.</p>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<p style="font-size:20px;font-family:Time New Roman;font-style:justify;">The 4D'S offers a lot for students especially the Grade 10, who are unable to decide for their life and unable to grasp the desire goal by strengthening their will on choosing strand and career. We in SCIENCE, TECHNOLOGY, ENGINEERING and MATHEMATICS (STEM) strand will help the future seniors of high school be motivated for their chosen careers. The idea of improving their skills when choosing strands greatly related to their goals is a must for every future Senior High School students. The Project 4D'S aims for great improvement of Junior High School in terms of choosing and deciding their path what they’ve learned in school.</p>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<p style="font-size:20px;font-family:Time New Roman;font-style:justify;">The Grade 10 students are in the highest grade level in Junior High School Department. So as time passes by, if we don’t immediately plan what we are going to do, we will also be in struggle when the day comes. So this project aims to develop your creativity, independent thinking and also help you to be a good decision maker.</p>
+<a href="PAGE 2.html">
+<p style="text-align:center;font-family:bookman old style;font-size:18px;"><b>PREVIOUS</b></p></a>
+<a href="PAGE 4.html">
+<p style="text-align:center;font-family:bookman old style;font-size:18px;"><b>NEXT</b></p></a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p style="text-align:center;font-style:bold;font-family:Times New Roman;font-size:18px;">All rights reserved &copy; 2023 Group 4DS</p>

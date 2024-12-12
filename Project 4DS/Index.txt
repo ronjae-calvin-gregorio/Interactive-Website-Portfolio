@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Index</title>
+</head>
+
+<body style="background-color:#90ee90;">
+
+<p style="text-align:Center;font-family=Bookman Old Style;font-size:60px"><b>
+PROJECT 4DS: DISCUSSING DIRECTION, DECISION AND DESIRES TO SUCCEED</b> </p><hr>
+<center>
+<img src="kayleigh.jpg" width="300px" height="300px" alt="Kayleigh Anne C.Gisto"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Kayleigh Anne C. Gisto 09050760408 kyleighannegisto@gmail.com GRADE 11 EINSTEIN</i></p>
+<center>
+<img src="stephanie.jpg" width="300px" height="300px" alt="Stephanie Lorraine N. Reyes"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Stephanie Lorraine N. Reyes 09099850263 stephanie301reyes@gmail.com GRADE 11 EINSTEIN</i></p>
+<center>
+<img src="sheena.jpg" width="300px" height="300px" alt="Sheena Mae V. Cruzat"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Sheena Mae V. Cruzat 09469647670 sheenamaevalentoncruzat03@gmail.com GRADE 11 EINSTEIN</i></p>
+<center>
+<img src="alinah.jpg" width="300px" height="300px" alt="Alinah Jen A. Mendoza"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Alinah Jen A. Mendoza 09685932721 alinahmendoza799@gmail.com GRADE 11 EINSTEIN</i></p>
+<center>
+<img src="cathlyn.jpeg" width="300px" height="300px" alt="Cathlyn Joy Delloro"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Cathlyn Joy Delloro 09483747054 cathlyndelloro@gmail.com GRADE 11 EINSTEIN</i></p>
+<center>
+<img src="ryan.jpg" width="300px" height="300px" alt="Ryan Khim Michael C. Cagoco"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Ryan Khim Michael C. Cagoco 0956607667 ryanmichaelcomia@gmail.com GRADE 11 EINSTEIN</i></p>
+<center>
+<img src="kirby.jpg" width="300px" height="300px" alt="Kirby F. Rosales"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Kirby F. Rosales 09464367256 kirbyrosales52@gmail.com GRADE 11 EINSTEIN</i></p>
+<center>
+<img src="ronjae.jpg" width="300px" height="300px" alt="Ronjae Calvin M. Gregorio"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Ronjae Calvin M. Gregorio  09665200762 notcrescent6876@gmail.com GRADE 11 EINSTEIN</i></p>
+<center>
+<img src="aljon.jpg" width="300px" height="300px" alt="Aljon Albante"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Aljon Albante 09503237787 aljonalbante@gmail.com GRADE 11 EINSTEIN</i></p>
+<center>
+<img src="jomel.jpg" width="300px" height="300px" alt="Jomel Aguilar"> </img>
+</center>
+<p style="font-size:20px;font-family:Lucida Handwriting;text-align:center;"><i>
+Jomel Aguilar 09609185865 jomelaguilar@gmail.com GRADE 11 EINSTEIN</i></p>
+<a href="PAGE 2.html">
+<p style="text-align:center;font-family:bookman old style;font-size:18px;"><b>NEXT</b></p></a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p style="text-align:center;font-family:Times New Roman;font-size:18px;">
+<b>All rights reserved &copy; 2023 Group 4DS</b></p>
+
+</body>
+</html>

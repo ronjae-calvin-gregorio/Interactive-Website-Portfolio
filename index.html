@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Website Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/295c2bdcf1.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src=""image/logo.png" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#sdg">SDG</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fa-solid fa-xmark" onclick="closemenu()"></i>
+                </ul>
+                <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p>Computer Science Student</p>
+                <h1>Hi, I'm <span>Ronjae Calvin</span><br>From Philippines</h1>
+            </div>
+        </div>
+    </div>
+    <!------------------about------------------>
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="images/user.png">
+                </div>
+                <div class="about-col-2">
+                    <hi class="sub-title">About Me</hi>
+                    <p>Hi, I'm Ronjae Calvin M. Gregorio. I'm a computer science student, maker, and tinkerer with a passion for technology.
+                        From Arduino-based projects and robotics to DIY RC planes and LED lighting systems, I love combining tech and creativity to bring innovative ideas to life.
+                        My interests also extend to CAD modeling, solar systems, and exploring the possibilities of microcontrollers like the ESP32.
+                        When I’m not coding or building, you’ll find me experimenting with new concepts, learning new skills, or crafting projects that push my boundaries.
+                        I'm excited to grow, create, and make a positive impact through my work.</p>
+                    
+                    <div class="tab-title">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                        <p class="tab-links" onclick="opentab('tools')">Tools and Platforms</p>
+                    </div>
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>Programming Language</span><br>Basic understanding of C++</li>
+                            <li><span>Web Development</span><br>Proficiency in HTML and CSS</li>
+                            <li><span>Hardware-Software Integration</span><br>Arduino Programming</li>
+                            <li><span>Basic Circuit Design</span><br>Designing and troubleshooting basic electronic circuits</li>
+                            <li><span>Basic Cad Modelling</span><br>Designing simple 3D models or prototypes</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="tools">
+                        <ul>
+                            <li class="arduino"><span><a href="https://www.arduino.cc/en/software">Arduino IDE</a></span><br>Programming microcontrollers and prototyping circuits</li>
+                            <li class="tinkercad"><span><a href="https://www.tinkercad.com/">TinkerCad</a></span><br>3D Design, Electronics Simulation<br>Block-Based Coding, and Collaborative Learning</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--------------Projects--------------->
+    <div id="projects">
+        <div class="container">
+            <hi class="sub-title">Projects</hi>
+            <div class="projects-list">
+                <div>
+                    <div class="project-image">
+                        <img src="Project 4DS/Project 4DS logo.png" alt="Project 4DS">
+                      </div>
+                    <h2>Project 4DS: Discussing Direction, Decision, and Desires to Succeed</h2>
+                    <p>This project aims to guide and support Grade 10 students in making informed decisions about their academic track for senior high school. By addressing the challenges and uncertainties students face, Project 4DS provides valuable insights and resources.</p>
+                    <a href="Project 4DS/Index.html">See more</a>
+                </div>
+                <div>
+                    <div class="project-image">
+                        <img src="CLAWVER/CLAWVER.png" alt="CLAWVER">
+                      </div>
+                    <h2>CLAWVER: Claw-Lift Remote Controlled Rover</h2>
+                    <p>The CLAWVER is a remarkable robotic innovation developed by Grade 12 STEM students. This versatile robot, which seamlessly combines the functionalities of a forklift and a claw, exhibits a unique blend of mechanical ingenuity and technological prowess. Equipped with advanced sensors such as ultrasonic, light, and infrared sensors, the CLAWVER can navigate various terrains and detect obstacles with precision. Its robust construction and efficient performance make it suitable for a wide range of applications, including material handling, environmental cleanup, and educational purposes.</p>
+                    <a href="CLAWVER/CLAWVER.pdf">Learn more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--------------SDG-------------->
+    <div id="sdg">
+        <div class="container">
+            <h1 class="sub-title">Sustainable Development Goals</h1>
+            <p>As a tech-savvy individual, I'm committed to harnessing my skills to drive positive change and support the United Nations' Sustainable Development Goal 13 (SDG 13): Climate Action.
+                Through my online presence, including my GitHub and Facebook profiles, I aim to leverage technology to promote sustainable development and climate action.
+                By contributing to open-source projects, developing innovative solutions, and collaborating with like-minded individuals, I strive to make a meaningful impact on the environment and contribute to a more sustainable future.
+                By aligning my skills, projects, and aspirations with SDG 13, I'm dedicated to playing my part in combating climate change and creating a better world for all.</p>
+
+        </div>
+    </div>
+    <!-------------contact--------------->
+    <div id="contact">
+        <div class="container">
+            <h1 class="sub-title">Contact Me</h1>
+            <p><i class="fa-solid fa-paper-plane"></i> ronjaecalvingregorio@gmail.com</p>
+            <p><i class="fa-solid fa-phone"></i> 09665200762</p>
+            <div class="social-icons">
+                <a href="https://facebook.com/ronjae.calvin"><i class="fa-brands fa-facebook"></i></a>
+                <a href="https://github.com/ronjae-calvin-gregorio"><i class="fa-brands fa-github"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>Copyright © Ronjae Calvin. Made with <i class="fa-solid fa-heart"></i> by Ronjae Calvin Gregorio</p>
+    </div>
+
+    <script>
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+    
+        function opentab(tabname) {
+            for (tablink of tablinks) {
+                tablink.classList.remove("active-link");
+            }
+            for (tabcontent of tabcontents) {
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+    </script>
+
+    <script>
+        var sidemenu = document.getElementById("sidemenu");
+
+        function openmenu(){
+            sidemenu.style.right = "0";
+        }
+        function closemenu(){
+            sidemenu.style.right = "-200px";
+        }
+
+    </script>
+    
+</body>
+</html>

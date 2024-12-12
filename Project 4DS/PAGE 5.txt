@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PAGE 5</title>
+</head>
+<body style="background-color:#90ee90;">
+<center><img src= "Project 4DS logo.png" width"200px" height="200px" alt="PROJECT 4DS: DISCUSSING DIRECTION, DECISION AND DESIRES TO SUCCEED"> </img></center>
+<p style="font-size:40px;font-family:Bookman Old Style;text-align:center;"><b>PROJECT 4DS:DISCUSSING DIRECTION, DECISION AND DESIRES TO SUCCEED</b></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Kayleigh Anne Gisto 09050760408 kyleighannegisto@gmail.com 11 EINSTEIN</i></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Stephanie Lorraine Reyes 09099850263 stephanie30lreyes@gmail.com 11 EINSTEIN</i></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Sheena Mae V. Cruzat 09469647670 sheenamaevalentoncruzat03@gmail.com 11 EINSTEIN</i></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Alinah Jen A. Mendoza 09685932721 Alinahmendoza799@gmail.com 11 EINSTEIN</i></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Cathlyn Joy Delloro 09483747054 cathlyndelloro@gmail.com 11 EINSTEIN</i></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Ryan Khim Michael C. Cagoco 0956607667 ryanmichaelcomia@gmail.com 11 EINSTEIN</i></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Ronjae Calvin Gregorio 09665200762 notcrescent6876@gmail.com 11 EINSTEIN</i></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Aljon Albante 09503237787 aljonalbante@gmail.com 12 SOCRATES</i></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Jomel Aguilar 09609185865 jomelaguilar@gmail.com 11 EINSTEIN</i></p>
+<p style="font-size:15px;font-family:bookman old style;text-align:center;"> <i>Kirby F. Rosales 09464367256 kirbyrosales52@gmail.com 11 EINSTEIN</i></p>
+<br><br><br>
+<p style = "text-color:black;text-align:left;font-family:Consolas;font-size:30px;"> <b> EXPECTED OUTCOME </b> </h1>
+<center> <img src= "expected outcome.png" width="300px" height="300px" alt= "Expected outcome"> </img></center>
+<p style= "text-color:black;text-align:left;font-family:Consolas;font-size:30px;"> <b> SURVEY QUESTIONNAIRE </b> </h2>
+<center> <img src= "survey.jpg" width="300px" height="300px" alt= "Survey Questionnaire"> </img></center>
+<a href="PAGE 4.html">
+<p style="text-align:center;font-family:bookman old style;font-size:18px;"><b>PREVIOUS</b></p></a>
+<a href="PAGE 6.html">
+<p style="text-align:center;font-family:bookman old style;font-size:18px;"><b>NEXT</b></p></a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p style="text-align:center;font-family:Times New Roman;font-size:18px;"><b>All rights reserved &copy; 2023 Group 4DS</b></p>
